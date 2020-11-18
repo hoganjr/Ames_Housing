@@ -1,5 +1,5 @@
 ---
-title: "Ames_Housing"
+title: "Ames_Housing_Predictions"
 author: "Jake Hogan"
 date: "11/18/2020"
 output: html_document
